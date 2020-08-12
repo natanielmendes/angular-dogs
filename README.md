@@ -1,6 +1,6 @@
-# AngularDogs
+# Angular Dogs
 
-AngularDogs project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+Angular Dogs project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 ## Development server
 
